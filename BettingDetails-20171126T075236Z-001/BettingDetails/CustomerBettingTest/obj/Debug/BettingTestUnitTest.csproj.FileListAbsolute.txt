@@ -1,0 +1,16 @@
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\Settled.csv
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\Unsettled.csv
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\BettingModel.dll
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\BettingService.dll
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\nunit.framework.dll
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\BettingModel.pdb
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\BettingService.pdb
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\nunit.framework.xml
+D:\Personal\WHA\BettingDetails\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Personal\WHA\BettingDetails\UnitTestProject1\obj\Debug\BettingTestUnitTest.csprojResolveAssemblyReference.cache
+D:\Personal\WHA\BettingDetails\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Personal\WHA\BettingDetails\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
