@@ -1,6 +1,2 @@
-Copy both Settled and UnSettled CSV to D:\\CSV
-UI is now text driven now, please use settled or unsettled to find the betting details
-
-PendinG Items
-=============
-Logging
+Copy both Settled and UnSettled CSV to location D:\\CSV
+UI is text driven only, please use 'settled' or 'unsettled' text to find the betting details
