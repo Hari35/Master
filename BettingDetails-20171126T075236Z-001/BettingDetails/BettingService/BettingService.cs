@@ -9,7 +9,7 @@ namespace BettingService
         private SettledCustomers settledCustomerDetails;
         private readonly Lazy<List<CustomerResponse>> lazySettledCustomerResponse;
         private readonly Lazy<List<CustomerResponse>> lazyUnSettledCustomerResponse;
-        private List<SettledBettingDetails> f;
+       
 
         public CustomerRequest customerRequest { get; set; }
 
