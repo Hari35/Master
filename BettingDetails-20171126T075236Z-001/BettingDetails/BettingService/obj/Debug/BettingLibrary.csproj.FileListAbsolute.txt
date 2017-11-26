@@ -1,0 +1,16 @@
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingService.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingService.pdb
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingModel.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingModel.pdb
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\obj\Debug\BettingLibrary.csprojResolveAssemblyReference.cache
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\obj\Debug\BettingService.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\obj\Debug\BettingService.pdb
+D:\Personal\WHA\BettingDetails\BettingService\bin\Debug\Settled.csv
+D:\Personal\WHA\BettingDetails\BettingService\bin\Debug\Unsettled.csv
+D:\Personal\WHA\BettingDetails\BettingService\bin\Debug\BettingService.dll
+D:\Personal\WHA\BettingDetails\BettingService\bin\Debug\BettingService.pdb
+D:\Personal\WHA\BettingDetails\BettingService\bin\Debug\BettingModel.dll
+D:\Personal\WHA\BettingDetails\BettingService\bin\Debug\BettingModel.pdb
+D:\Personal\WHA\BettingDetails\BettingService\obj\Debug\BettingLibrary.csprojResolveAssemblyReference.cache
+D:\Personal\WHA\BettingDetails\BettingService\obj\Debug\BettingService.dll
+D:\Personal\WHA\BettingDetails\BettingService\obj\Debug\BettingService.pdb

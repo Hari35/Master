@@ -1,0 +1,10 @@
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingModel\bin\Debug\BettingModel.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingModel\bin\Debug\BettingModel.pdb
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingModel\obj\Debug\BettingModel.csprojResolveAssemblyReference.cache
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingModel\obj\Debug\BettingModel.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingModel\obj\Debug\BettingModel.pdb
+D:\Personal\WHA\BettingDetails\BettingModel\bin\Debug\BettingModel.dll
+D:\Personal\WHA\BettingDetails\BettingModel\bin\Debug\BettingModel.pdb
+D:\Personal\WHA\BettingDetails\BettingModel\obj\Debug\BettingModel.csprojResolveAssemblyReference.cache
+D:\Personal\WHA\BettingDetails\BettingModel\obj\Debug\BettingModel.dll
+D:\Personal\WHA\BettingDetails\BettingModel\obj\Debug\BettingModel.pdb

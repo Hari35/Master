@@ -1,0 +1,7 @@
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingService.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingService.pdb
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingModel.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\bin\Debug\BettingModel.pdb
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\obj\Debug\BettingService.csprojResolveAssemblyReference.cache
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\obj\Debug\BettingService.dll
+D:\Personal\WHA\AngularJS_Web_API_MVC\BettingService\obj\Debug\BettingService.pdb
