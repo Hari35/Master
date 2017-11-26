@@ -9,7 +9,8 @@ namespace BettingService
         private SettledCustomers settledCustomerDetails;
         private readonly Lazy<List<CustomerResponse>> lazySettledCustomerResponse;
         private readonly Lazy<List<CustomerResponse>> lazyUnSettledCustomerResponse;
-       
+        private const string settledText = "SETTLED";  
+        private const string unSettledText = "UNSETTLED";  
 
         public CustomerRequest customerRequest { get; set; }
 
@@ -36,7 +37,7 @@ namespace BettingService
 
         public List<CustomerResponse> GetBettingDetails()
         {
-            if (customerRequest.Type.ToUpper() == "UNSETTLED")
+            if (customerRequest.Type.ToUpper() == unSettledText)
                 if (!lazySettledCustomerResponse.IsValueCreated)
                 {
                     IEnumerable<CustomerResponse> unSettledCustomerResponses = lazyUnSettledCustomerResponse.Value;
@@ -44,7 +45,7 @@ namespace BettingService
                     return new List<CustomerResponse>(unSettledCustomerResponses);
                 }
 
-            if (customerRequest.Type.ToUpper() == "SETTLED")
+            if (customerRequest.Type.ToUpper() == settledText)
                 if (!lazyUnSettledCustomerResponse.IsValueCreated)
                 {
                     IEnumerable<CustomerResponse> settledCustomerResponses = lazySettledCustomerResponse.Value;
